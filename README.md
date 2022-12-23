@@ -1,2 +1,2 @@
 # thrustmit
-https://github.com/ChaturvediDhruv/thrustmit.git
+https://chaturvedidhruv.github.io/thrustmit/thrust.html
